@@ -38,7 +38,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-This challenge helped me reinforce the importance of semantic HTML. I practiced using elements like <main>, <ul>, <ol>, and <strong> to structure content clearly and meaningfully. I also styled the layout using custom CSS, focusing on visual hierarchy and spacing.
+This challenge helped me reinforce the importance of semantic HTML. I practiced using elements like main, ul, ol, and <strong> to structure content clearly and meaningfully. I also styled the layout using custom CSS, focusing on visual hierarchy and spacing.
 
 Although I didn’t use elements like section, table, or hr, I found creative ways to achieve the same visual results using styled <div>s. I'm still learning how to make layouts fully responsive, and this project gave me a good opportunity to experiment with media queries and mobile-first design.
 To see how you can add code snippets, see below:
