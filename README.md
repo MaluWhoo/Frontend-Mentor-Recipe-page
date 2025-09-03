@@ -5,7 +5,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -57,7 +56,7 @@ Although I didn’t use elements like section, table, or hr, I found creative wa
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I plan to focus on honing my responsive design skills to ensure my layouts adapt seamlessly to different screen sizes. I also want to deepen my understanding of CSS variables to help me organize styles efficiently and make the project easier to maintain.
 
 ### Useful resources
 
