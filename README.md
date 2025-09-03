@@ -26,7 +26,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - Live Site URL: [GitHub Pages](https://maluwhoo.github.io/frontend-mentor-recipe-page/)
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/recipe-page-with-semantic-html-and-responsive-css-MaluWhoo)
-- 
+
 ## My process
 
 ### Built with
