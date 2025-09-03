@@ -62,7 +62,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [HTML elements reference]([https://www.example.com](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements)) - A complete and reliable reference for all HTML elements..
+- [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements) - A complete and reliable reference for all HTML elements..
 - [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A super helpful visual guide to understanding Flexbox.
   
 ## Author
